@@ -1,0 +1,8 @@
+name             'learn_chef_iis'
+maintainer       'Learn Chef'
+maintainer_email 'learnchef@getchef.com'
+license          'Apache 2.0'
+description      'Installs and configures IIS, the W3SVC, and sets a basic home page.'
+long_description 'Installs and configures IIS, the W3SVC, and sets a basic home page. This cookbook is used by the Learn Chef tutorials. http://learn.getchef.com'
+supports         'windows'
+version          '0.1.0'
